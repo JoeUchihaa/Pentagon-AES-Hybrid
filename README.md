@@ -11,7 +11,3 @@ This custom-designed encryption method aims to provide an understanding of crypt
 ## Algorithm Steps
 
 Please refer to the [documentation](./documentation.md) for a detailed description of the algorithm steps, including key generation, data preparation, data assignment, data transformation, final round, and decryption process.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
